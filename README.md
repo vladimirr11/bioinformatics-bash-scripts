@@ -1,1 +1,1 @@
-# bash-scripts
+# bioinformatics-bash-scripts
